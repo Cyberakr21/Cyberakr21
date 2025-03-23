@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning more cloud security
 - ⚡ Fun fact: I used to be in an esport team
 
-**Cybersecurity Projects**
+**👨‍💻Cybersecurity Projects**
+
+- [Detection-and-Monitoring HomeLab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Cyberakr21/Detection-and-Monitoring-Homelab/blob/8aa00ed0023f9787c25f18c3197dfe99f25c9b7e/README.md))
 
 **Connect with me:**
 - 📫 austinramoroka@outlook.com
