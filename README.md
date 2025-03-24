@@ -5,7 +5,7 @@
 
 **👨‍💻Cybersecurity Projects**
 
-- [Detection-and-Monitoring HomeLab](https://github.com/Cyberakr21/Detection-and-Monitoring-Homelab/blob/8aa00ed0023f9787c25f18c3197dfe99f25c9b7e/README.md)
+- [Detection-and-Monitoring HomeLab](https://github.com/Cyberakr21/Detection-and-Monitoring-Homelab.git)
 
 **Connect with me:**
 - 📫 austinramoroka@outlook.com
